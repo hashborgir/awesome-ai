@@ -283,7 +283,7 @@ Voicemod Beta:
 ## AI Avatars:
 
 Characters: 
-[https://characters.ai/](https://beta.character.ai/)
+[https://character.ai/](https://beta.character.ai/)
 
 Movio: 
 [https://www.movio.la/](https://www.movio.la/)
