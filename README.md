@@ -1,6 +1,6 @@
 # Awesome AI
 
-Awesome curated list of AI based genrators, free and paid. Please let me know of any not listed here. Thank you.
+Awesome curated list of AI based generators, free and paid. Please let me know of any not listed here. Thank you.
 
 - [Awesome AI](#awesome-ai)
   * [AI Text to Image Websites:](#ai-text-to-image-websites)
