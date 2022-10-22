@@ -3,17 +3,17 @@
 Awesome curated list of AI based genrators, free and paid. Please let me know of any not listed here. Thank you.
 
 - [Awesome AI](#awesome-ai)
-  * [AI Text to Image Websites:](#ai-text-to-image-websites-)
-  * [AI Text Models:](#ai-text-models-)
-  * [AI Text to Video Models:](#ai-text-to-video-models-)
-  * [AI Text to Code Models:](#ai-text-to-code-models-)
-  * [AI Text to 3D Models:](#ai-text-to-3d-models-)
-  * [AI Audio Generation Models:](#ai-audio-generation-models-)
-  * [AI Text to Speech Models:](#ai-text-to-speech-models-)
-  * [AI Upscalers & Restorers:](#ai-upscalers---restorers-)
-  * [AI Realtime Voice Changing Models:](#ai-realtime-voice-changing-models-)
-  * [AI Avatars:](#ai-avatars-)
-  * [Useful General AI Websites:](#useful-general-ai-websites-)
+  * [AI Text to Image Websites:](#ai-text-to-image-websites)
+  * [AI Text Models:](#ai-text-models)
+  * [AI Text to Video Models:](#ai-text-to-video-models)
+  * [AI Text to Code Models:](#ai-text-to-code-models)
+  * [AI Text to 3D Models:](#ai-text-to-3d-models)
+  * [AI Audio Generation Models:](#ai-audio-generation-models)
+  * [AI Text to Speech Models:](#ai-text-to-speech-models)
+  * [AI Upscalers & Restorers:](#ai-upscalers---restorers)
+  * [AI Realtime Voice Changing Models:](#ai-realtime-voice-changing-models)
+  * [AI Avatars:](#ai-avatars)
+  * [Useful General AI Websites:](#useful-general-ai-websites)
 
 
 ## AI Text to Image Websites:
