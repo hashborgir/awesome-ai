@@ -15,7 +15,7 @@ Awesome curated list of AI based generators, free and paid. Please let me know o
   * [AI Avatars:](#ai-avatars)
   * [Useful General AI Websites:](#useful-general-ai-websites)
   * [Stable Diffusion Artist Style Studies](#stable-diffusion-artist-style-studies)
-  * [Google colab notebooks for Stable Diffusion](#google-colab-notebooks)
+  * [Google colab notebooks for Stable Diffusion](#google-colab-notebooks-for-stable-diffusion)
 
 
 ## AI Text to Image Websites:
