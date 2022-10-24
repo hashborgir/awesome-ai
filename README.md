@@ -316,6 +316,6 @@ Replicate:
 
 ## Stable Diffusion Artist Style Studies
 
-[Stable Diffusion Artist Style Studies](https://www.notion.so/e28a4f8d97724f14a784a538b8589e7d)
+[Stable Diffusion Artist Style Studies](https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=9d8b31b3cf544ed2bf2534446dbdfde0)
 
 [Image Synthesis Style Studies Database (The List)](https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit#gid=0)
