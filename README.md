@@ -15,6 +15,7 @@ Awesome curated list of AI based generators, free and paid. Please let me know o
   * [AI Avatars:](#ai-avatars)
   * [Useful General AI Websites:](#useful-general-ai-websites)
   * [Stable Diffusion Artist Style Studies](#stable-diffusion-artist-style-studies)
+  * [Google colab notebooks for Stable Diffusion](#google-colab-notebooks)
 
 
 ## AI Text to Image Websites:
@@ -319,3 +320,24 @@ Replicate:
 [Stable Diffusion Artist Style Studies](https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=9d8b31b3cf544ed2bf2534446dbdfde0)
 
 [Image Synthesis Style Studies Database (The List)](https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit#gid=0)
+
+## Google colab notebooks for Stable Diffusion
+
+[maintained by TheLastBen](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb)
+
+[maintained by camenduru](https://github.com/camenduru/stable-diffusion-webui-colab)
+
+[maintained by ddPn08](https://github.com/ddPn08/automatic1111-colab)
+
+[maintained by Akaibu](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
+
+[Colab, original by Automatic111, outdated](https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh)
+
+[Deforum Stable Diffusion v0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)
+
+[Dreambooth Stable Diffusion](https://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb)
+
+[Fast DreamBooth colab From https://github.com/TheLastBen/fast-stable-diffusion](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb)
+
+[Dreambooth Stable Diffusion: this colab has a "convert weights to ckpt" option ](https://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb)
+
