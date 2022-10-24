@@ -14,6 +14,7 @@ Awesome curated list of AI based generators, free and paid. Please let me know o
   * [AI Realtime Voice Changing Models:](#ai-realtime-voice-changing-models)
   * [AI Avatars:](#ai-avatars)
   * [Useful General AI Websites:](#useful-general-ai-websites)
+  * [Stable Diffusion Artist Style Studies](#stable-diffusion-artist-style-studies)
 
 
 ## AI Text to Image Websites:
@@ -312,3 +313,9 @@ Promptomania:
 
 Replicate: 
 [https://replicate.com/explore](https://replicate.com/explore)
+
+## Stable Diffusion Artist Style Studies
+
+[Stable Diffusion Artist Style Studies](https://www.notion.so/e28a4f8d97724f14a784a538b8589e7d)
+
+[Image Synthesis Style Studies Database (The List)](https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit#gid=0)
