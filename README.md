@@ -30,10 +30,7 @@ Cog View 2 (Free & Paid)
 [https://replicate.com/thudm/cogview2](https://replicate.com/thudm/cogview2)
 
 Craiyon (Free to use) 
-[https://www.craiyon.com/?utm_source=sendinblue&utm_campaign=first%20email&utm_medium=email](https://www.craiyon.com/?utm_source%3Dsendinblue%26utm_campaign%3Dfirst%2520email%26utm_medium%3Demail)
-
-Dall E Flow (Free to use) 
-[https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb#scrollTo=7f00f44e](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb%23scrollTo%3D7f00f44e)
+[https://www.craiyon.com/?utm_source=sendinblue&utm_campaign=first%20email&utm_medium=email](https://www.craiyon.com/)
 
 Deep AI Text to Image (Free Access) 
 [https://deepai.org/machine-learning-model/text2img](https://deepai.org/machine-learning-model/text2img)
@@ -92,9 +89,6 @@ Night Cafe (Free & Paid)
 NovelAI Anime/Furry Generation: 
 [https://novelai.net/image](https://novelai.net/image)
 
-Nvidia gaugan2 (Free to Use) 
-[http://gaugan.org/gaugan2/](http://gaugan.org/gaugan2/)
-
 Open AI Dall-E 2 (Public) 
 [https://openai.com/dall-e-2/](https://openai.com/dall-e-2/)
 
@@ -112,9 +106,6 @@ PlaygroundAI
 
 Prompt.Art Website: 
 [https://prompt.art/](https://prompt.art/)
-
-Shonenkov AI (Free to Use) 
-[https://t.me/shonenkovAI](https://t.me/shonenkovAI)
 
 Simulacrabot (Closed) 
 [https://github.com/JD-P/simulacra-aesthetic-captions](https://github.com/JD-P/simulacra-aesthetic-captions)
@@ -230,9 +221,6 @@ VoiceFixer Audio Restoration:
 
 ## AI Text to Speech Models:
 
-15 AIi Text to Speech: 
-[https://15.ai/](https://15.ai/)
-
 FakeYou Text to Speech: 
 [https://fakeyou.com/](https://fakeyou.com/)
 
@@ -243,14 +231,8 @@ Uberduck Text to Speech:
 
 ## AI Upscalers & Restorers:
 
-ARC Face Restoration: 
-[https://arc.tencent.com/en/ai-demos/faceRestoration](https://arc.tencent.com/en/ai-demos/faceRestoration)
-
 AVC Labs Photo Enhancer: 
 [https://www.avclabs.com/photo-enhancer-ai.html](https://www.avclabs.com/photo-enhancer-ai.html)
-
-AVC Labs Video Enhancer: 
-[https://www.avclabs.com/video-enhancer-ai.html](https://www.avclabs.com/video-enhancer-ai.html)
 
 Gigapixel: 
 [https://www.topazlabs.com/gigapixel-ai](https://www.topazlabs.com/gigapixel-ai)
@@ -267,9 +249,6 @@ SwinIR:
 
 
 ## AI Realtime Voice Changing Models:
-
-Izotope Audio Restoration: 
-[https://www.izotope.com/](https://www.izotope.com/)
 
 NyVox: 
 [https://store.steampowered.com/app/1499250/NyVox/](https://store.steampowered.com/app/1499250/NyVox/)
@@ -330,8 +309,6 @@ Replicate:
 [maintained by ddPn08](https://github.com/ddPn08/automatic1111-colab)
 
 [maintained by Akaibu](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
-
-[Colab, original by Automatic111, outdated](https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh)
 
 [Deforum Stable Diffusion v0.5](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)
 
